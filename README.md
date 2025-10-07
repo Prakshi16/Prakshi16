@@ -10,9 +10,9 @@ learning by doing (and redoing... and redoing again).
   <a href="https://www.linkedin.com/in/prakshi-lak/">
     <img src="https://img.shields.io/badge/LinkedIn-prakshi--lak-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Prakshi16">
+  <!-- <a href="https://github.com/Prakshi16">
     <img src="https://img.shields.io/badge/GitHub-Prakshi16-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  </a> -->
   <a href="https://www.instagram.com/_prakshiii_/">
     <img src="https://img.shields.io/badge/Instagram-_prakshiii_-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
