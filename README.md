@@ -63,4 +63,4 @@ learning by doing (and redoing... and redoing again).
 
 <br>
 
-![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
