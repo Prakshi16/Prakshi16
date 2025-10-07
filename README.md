@@ -27,7 +27,7 @@ learning by doing (and redoing... and redoing again).
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,express,react,node,c,java&theme=dark&perline=7" alt="Languages and Frameworks" />
+    <img src="https://skillicons.dev/icons?i=python,express,react,c,java&theme=dark&perline=7" alt="Languages and Frameworks" />
   </a>
 </p>
 
